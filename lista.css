@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: beige;
+}
+
+header {
+    background-color: aqua;
+}
+
+nav {
+    background-color: orange;
+}
+
+main {
+    background-color: black;
+}
+
+footer {
+    background-color: red;
+}
