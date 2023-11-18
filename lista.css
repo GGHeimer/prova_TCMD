@@ -12,12 +12,13 @@ header {
     background-color: aqua;
 }
 
-nav {
-    background-color: orange;
-}
-
 main {
     background-color: black;
+}
+
+li img {
+    width: 100px;
+    height: 100x;
 }
 
 footer {
